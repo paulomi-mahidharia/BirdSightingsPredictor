@@ -1,0 +1,14 @@
+.idea
+project
+Spark ML resources/
+input/
+output/
+spark-warehouse/
+target/
+mapping
+.clover
+error rate
+Makefile
+build.sbt
+model
+log
